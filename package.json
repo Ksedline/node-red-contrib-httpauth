@@ -1,5 +1,5 @@
 {
-  "name": "httpauth",
+  "name": "@ksedline/httpauth",
   "version": "1.0.12",
   "description": "Node which implements HTTP Basic/Digest Authorization.",
   "keywords": [
